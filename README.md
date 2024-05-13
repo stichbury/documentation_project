@@ -15,7 +15,7 @@ You can find the blog post that accompanies this code here:
 
 
 ## How to use the `dashboard.ipynb` Notebook
-To run the Notebook successfully, you need to be set up to use Vizro-AI. The best way to achieve this is to follow the blog post linked in the "What is this code for?" section? It'll walk you through the steps needed to:
+To run the Notebook successfully, you need to be set up to use Vizro-AI. The best way to achieve this is to follow the blog post linked in the "[What is this code for?](https://github.com/stichbury/documentation_project?tab=readme-ov-file#what-is-this-code-for)" section. It'll walk you through the steps needed to:
 
 * [Set up Vizro inside a virtual environment containing Python 3.9 or greater](https://vizro.readthedocs.io/projects/vizro-ai/en/latest/pages/user-guides/install/).
 * `pip install jupyter` if you don't already it, so you can run the Notebook.
